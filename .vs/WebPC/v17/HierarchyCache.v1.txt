@@ -1,0 +1,674 @@
+﻿++Solution 'WebPC' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:WebPC.sln
+++WebPC
+i:{00000000-0000-0000-0000-000000000000}:WebPC
+++Properties
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\properties\
+++AssemblyInfo.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\properties\assemblyinfo.cs
+++References
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++EntityFramework
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++EntityFramework.SqlServer
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++Microsoft.CSharp
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.ComponentModel.DataAnnotations
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.Configuration
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.Core
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.Data
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.Data.DataSetExtensions
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.Data.Linq
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.Drawing
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.EnterpriseServices
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.Linq
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.Runtime.Serialization
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.Security
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.Web
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.Web.ApplicationServices
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.Web.DynamicData
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.Web.Entity
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.Web.Extensions
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.Web.Services
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.Xml
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++System.Xml.Linq
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:
+++Admin
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\
+++AdminMasterPage.Master
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\adminmasterpage.master
+++Category.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\category.aspx
+++ChangePass.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\changepass.aspx
+++DashboardAdmin.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\dashboardadmin.aspx
+++LoginAdmin.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\loginadmin.aspx
+++LogoutAdmin.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\logoutadmin.aspx
+++Notifications.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\notifications.aspx
+++Order.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\order.aspx
+++Product.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\product.aspx
+++ProfileAdmin.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\profileadmin.aspx
+++PublicAdmin.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\publicadmin.cs
+++SetUser.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\setuser.aspx
+++SignUpAdmin.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\signupadmin.aspx
+++bin
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\
+++roslyn
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\
+++EntityFramework.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\entityframework.dll
+++EntityFramework.SqlServer.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\entityframework.sqlserver.dll
+++EntityFramework.SqlServer.xml
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\entityframework.sqlserver.xml
+++EntityFramework.xml
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\entityframework.xml
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\microsoft.codedom.providers.dotnetcompilerplatform.dll
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\microsoft.codedom.providers.dotnetcompilerplatform.xml
+++System.Linq.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\system.linq.dll
+++WebPC.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\webpc.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\webpc.dll
+++WebPC.dll.config
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\webpc.dll.config
+++WebPC.pdb
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\webpc.pdb
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\webpc.pdb
+++Model
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\model\
+++obj
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\
+++Debug
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\
+++TempPE
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\temppe\
+++Linq.WebPC.designer.cs.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\temppe\linq.webpc.designer.cs.dll
+++Model.EF.PCWeb.Context.cs.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\temppe\model.ef.pcweb.context.cs.dll
+++Model.EF.PCWeb.cs.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\temppe\model.ef.pcweb.cs.dll
+++Model.EF.PCWeb.Designer.cs.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\temppe\model.ef.pcweb.designer.cs.dll
+++Model.EF.WEBPCModel.Context.cs.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\temppe\model.ef.webpcmodel.context.cs.dll
+++Model.EF.WEBPCModel.cs.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\temppe\model.ef.webpcmodel.cs.dll
+++Model.EF.WEBPCModel.Designer.cs.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\temppe\model.ef.webpcmodel.designer.cs.dll
+++WEBPCModel.Context.cs.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\temppe\webpcmodel.context.cs.dll
+++WEBPCModel.cs.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\temppe\webpcmodel.cs.dll
+++WEBPCModel.Designer.cs.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\temppe\webpcmodel.designer.cs.dll
+++.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\.netframework,version=v4.7.2.assemblyattributes.cs
+++DesignTimeResolveAssemblyReferences.cache
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\designtimeresolveassemblyreferences.cache
+++DesignTimeResolveAssemblyReferencesInput.cache
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\designtimeresolveassemblyreferencesinput.cache
+++WebPC.csproj.AssemblyReference.cache
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\webpc.csproj.assemblyreference.cache
+++WebPC.csproj.CopyComplete
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\webpc.csproj.copycomplete
+++WebPC.csproj.CoreCompileInputs.cache
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\webpc.csproj.corecompileinputs.cache
+++WebPC.csproj.FileListAbsolute.txt
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\obj\debug\webpc.csproj.filelistabsolute.txt
+++Public
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\
+++User
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\
+++Cart.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\cart.aspx
+++Default.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\default.aspx
+++DetailProduct.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\detailproduct.aspx
+++Login.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\login.aspx
+++Logout.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\logout.aspx
+++PublicUser.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\publicuser.cs
+++SignUp.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\signup.aspx
+++UserMasterPage.Master
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\usermasterpage.master
+++Connect.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\connect.cs
+++packages.config
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\packages.config
+++Web.config
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\web.config
+++AdminMasterPage.Master.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\adminmasterpage.master.cs
+++AdminMasterPage.Master.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\adminmasterpage.master.designer.cs
+++Category.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\category.aspx.cs
+++Category.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\category.aspx.designer.cs
+++ChangePass.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\changepass.aspx.cs
+++ChangePass.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\changepass.aspx.designer.cs
+++DashboardAdmin.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\dashboardadmin.aspx.cs
+++DashboardAdmin.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\dashboardadmin.aspx.designer.cs
+++LoginAdmin.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\loginadmin.aspx.cs
+++LoginAdmin.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\loginadmin.aspx.designer.cs
+++LogoutAdmin.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\logoutadmin.aspx.cs
+++LogoutAdmin.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\logoutadmin.aspx.designer.cs
+++Notifications.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\notifications.aspx.cs
+++Notifications.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\notifications.aspx.designer.cs
+++Order.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\order.aspx.cs
+++Order.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\order.aspx.designer.cs
+++Product.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\product.aspx.cs
+++Product.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\product.aspx.designer.cs
+++ProfileAdmin.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\profileadmin.aspx.cs
+++ProfileAdmin.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\profileadmin.aspx.designer.cs
+++SetUser.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\setuser.aspx.cs
+++SetUser.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\setuser.aspx.designer.cs
+++SignUpAdmin.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\signupadmin.aspx.cs
+++SignUpAdmin.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\admin\signupadmin.aspx.designer.cs
+++csc.exe
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\csc.exe
+++csc.exe.config
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\csc.exe.config
+++csc.rsp
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\csc.rsp
+++csi.exe
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\csi.exe
+++csi.exe.config
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\csi.exe.config
+++csi.rsp
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\csi.rsp
+++Microsoft.Build.Tasks.CodeAnalysis.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\microsoft.build.tasks.codeanalysis.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\microsoft.codeanalysis.csharp.scripting.dll
+++Microsoft.CodeAnalysis.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Scripting.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\microsoft.codeanalysis.scripting.dll
+++Microsoft.CodeAnalysis.VisualBasic.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\microsoft.codeanalysis.visualbasic.dll
+++Microsoft.CSharp.Core.targets
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.DiaSymReader.Native.amd64.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\microsoft.diasymreader.native.amd64.dll
+++Microsoft.DiaSymReader.Native.x86.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\microsoft.diasymreader.native.x86.dll
+++Microsoft.Managed.Core.targets
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.VisualBasic.Core.targets
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\microsoft.visualbasic.core.targets
+++Microsoft.Win32.Primitives.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\microsoft.win32.primitives.dll
+++System.AppContext.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.appcontext.dll
+++System.Collections.Immutable.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.collections.immutable.dll
+++System.Console.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.console.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.diagnostics.diagnosticsource.dll
+++System.Diagnostics.FileVersionInfo.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.diagnostics.fileversioninfo.dll
+++System.Diagnostics.StackTrace.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.diagnostics.stacktrace.dll
+++System.Globalization.Calendars.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.globalization.calendars.dll
+++System.IO.Compression.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.io.compression.dll
+++System.IO.Compression.ZipFile.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.io.compression.zipfile.dll
+++System.IO.FileSystem.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.io.filesystem.dll
+++System.IO.FileSystem.Primitives.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.io.filesystem.primitives.dll
+++System.Net.Http.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.net.http.dll
+++System.Net.Sockets.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.net.sockets.dll
+++System.Reflection.Metadata.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.reflection.metadata.dll
+++System.Runtime.InteropServices.RuntimeInformation.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.runtime.interopservices.runtimeinformation.dll
+++System.Security.Cryptography.Algorithms.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.security.cryptography.algorithms.dll
+++System.Security.Cryptography.Encoding.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.security.cryptography.encoding.dll
+++System.Security.Cryptography.Primitives.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.security.cryptography.primitives.dll
+++System.Security.Cryptography.X509Certificates.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.security.cryptography.x509certificates.dll
+++System.Text.Encoding.CodePages.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.text.encoding.codepages.dll
+++System.Threading.Tasks.Extensions.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.threading.tasks.extensions.dll
+++System.ValueTuple.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.valuetuple.dll
+++System.Xml.ReaderWriter.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.xml.readerwriter.dll
+++System.Xml.XmlDocument.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.xml.xmldocument.dll
+++System.Xml.XPath.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.xml.xpath.dll
+++System.Xml.XPath.XDocument.dll
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\system.xml.xpath.xdocument.dll
+++vbc.exe
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\vbc.exe
+++vbc.exe.config
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\vbc.exe.config
+++vbc.rsp
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\vbc.rsp
+++VBCSCompiler.exe
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\vbcscompiler.exe
+++VBCSCompiler.exe.config
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\bin\roslyn\vbcscompiler.exe.config
+++css
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\css\
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\css\
+++favicon
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\
+++font
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\font\
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\font\
+++Images
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\
+++Js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\js\
+++images
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\
+++js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\js\
+++Cart.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\cart.aspx.cs
+++Cart.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\cart.aspx.designer.cs
+++Default.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\default.aspx.cs
+++Default.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\default.aspx.designer.cs
+++DetailProduct.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\detailproduct.aspx.cs
+++DetailProduct.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\detailproduct.aspx.designer.cs
+++Login.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\login.aspx.cs
+++Login.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\login.aspx.designer.cs
+++Logout.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\logout.aspx.cs
+++Logout.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\logout.aspx.designer.cs
+++SignUp.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\signup.aspx.cs
+++SignUp.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\signup.aspx.designer.cs
+++UserMasterPage.Master.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\usermasterpage.master.cs
+++UserMasterPage.Master.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\usermasterpage.master.designer.cs
+++Web.Debug.config
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\web.debug.config
+++Web.Release.config
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\web.release.config
+++material-dashboard.css
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\css\material-dashboard.css
+++material-dashboard.css.map
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\css\material-dashboard.css.map
+++material-dashboard.min.css
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\css\material-dashboard.min.css
+++nucleo-icons.css
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\css\nucleo-icons.css
+++nucleo-svg.css
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\css\nucleo-svg.css
+++StyleAdminLogin.css
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\css\styleadminlogin.css
+++StyleDesign.css
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\css\styledesign.css
+++android-icon-144x144.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\android-icon-144x144.png
+++android-icon-192x192.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\android-icon-192x192.png
+++android-icon-36x36.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\android-icon-36x36.png
+++android-icon-48x48.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\android-icon-48x48.png
+++android-icon-72x72.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\android-icon-72x72.png
+++android-icon-96x96.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\android-icon-96x96.png
+++apple-icon-114x114.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\apple-icon-114x114.png
+++apple-icon-120x120.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\apple-icon-120x120.png
+++apple-icon-144x144.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\apple-icon-144x144.png
+++apple-icon-152x152.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\apple-icon-152x152.png
+++apple-icon-180x180.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\apple-icon-180x180.png
+++apple-icon-57x57.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\apple-icon-57x57.png
+++apple-icon-60x60.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\apple-icon-60x60.png
+++apple-icon-72x72.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\apple-icon-72x72.png
+++apple-icon-76x76.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\apple-icon-76x76.png
+++apple-icon-precomposed.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\apple-icon-precomposed.png
+++apple-icon.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\apple-icon.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\apple-icon.png
+++browserconfig.xml
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\browserconfig.xml
+++favicon-16x16.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\favicon-16x16.png
+++favicon-32x32.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\favicon-32x32.png
+++favicon-96x96.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\favicon-96x96.png
+++favicon.ico
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\favicon.ico
+++manifest.json
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\manifest.json
+++ms-icon-144x144.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\ms-icon-144x144.png
+++ms-icon-150x150.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\ms-icon-150x150.png
+++ms-icon-310x310.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\ms-icon-310x310.png
+++ms-icon-70x70.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\favicon\ms-icon-70x70.png
+++nucleo-icons.eot
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\font\nucleo-icons.eot
+++nucleo-icons.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\font\nucleo-icons.svg
+++nucleo-icons.ttf
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\font\nucleo-icons.ttf
+++nucleo-icons.woff
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\font\nucleo-icons.woff
+++nucleo-icons.woff2
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\font\nucleo-icons.woff2
+++nucleo.eot
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\font\nucleo.eot
+++nucleo.ttf
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\font\nucleo.ttf
+++nucleo.woff
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\font\nucleo.woff
+++nucleo.woff2
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\font\nucleo.woff2
+++illustrations
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\illustrations\
+++logos
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\logos\
+++small-logos
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\small-logos\
+++favicon.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\favicon.png
+++core
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\js\core\
+++plugins
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\js\plugins\
+++material-dashboard.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\js\material-dashboard.js
+++material-dashboard.js.map
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\js\material-dashboard.js.map
+++material-dashboard.min.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\js\material-dashboard.min.js
+++animate.css
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\css\animate.css
+++bootstrap.min.css
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\css\bootstrap.min.css
+++main.css
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\css\main.css
+++prettyPhoto.css
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\css\prettyphoto.css
+++price-range.css
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\css\price-range.css
+++responsive.css
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\css\responsive.css
+++StyleProduct.css
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\css\styleproduct.css
+++fontawesome-webfont.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\font\fontawesome-webfont.svg
+++fontawesome-webfont.woff
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\font\fontawesome-webfont.woff
+++FontAwesome.otf
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\font\fontawesome.otf
+++glyphicons-halflings-regular.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\font\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.woff
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\font\glyphicons-halflings-regular.woff
+++banner
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\banner\
+++1.jpg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\1.jpg
+++404.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\404.png
+++advertisement.jpg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\advertisement.jpg
+++banner_dohoa-800x300.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\banner_dohoa-800x300.png
+++banner_gaming-800x300.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\banner_gaming-800x300.png
+++banner_vanphong-800x300.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\banner_vanphong-800x300.png
+++bg.jpg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\bg.jpg
+++bg_border.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\bg_border.png
+++logopc.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\logopc.png
+++map.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\map.png
+++new.jpg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\new.jpg
+++new.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\new.png
+++rating.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\rating.png
+++sale.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\sale.png
+++searchicon.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\searchicon.png
+++share.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\share.png
+++socials.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\socials.png
+++bootstrap.min.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\js\bootstrap.min.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\js\core\bootstrap.min.js
+++contact.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\js\contact.js
+++gmaps.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\js\gmaps.js
+++html5shiv.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\js\html5shiv.js
+++jquery.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\js\jquery.js
+++jquery.prettyPhoto.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\js\jquery.prettyphoto.js
+++jquery.scrollUp.min.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\js\jquery.scrollup.min.js
+++main.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\js\main.js
+++price-range.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\js\price-range.js
+++chat.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\illustrations\chat.png
+++danger-chat-ill.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\illustrations\danger-chat-ill.png
+++dark-lock-ill.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\illustrations\dark-lock-ill.png
+++error-404.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\illustrations\error-404.png
+++error-500.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\illustrations\error-500.png
+++illustration-lock.jpg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\illustrations\illustration-lock.jpg
+++illustration-reset.jpg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\illustrations\illustration-reset.jpg
+++illustration-signin.jpg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\illustrations\illustration-signin.jpg
+++illustration-signup.jpg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\illustrations\illustration-signup.jpg
+++illustration-verification.jpg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\illustrations\illustration-verification.jpg
+++lock.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\illustrations\lock.png
+++pattern-tree.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\illustrations\pattern-tree.svg
+++rocket-white.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\illustrations\rocket-white.png
+++gray-logos
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\logos\gray-logos\
+++mastercard.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\logos\mastercard.png
+++visa.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\logos\visa.png
+++bootstrap.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\small-logos\bootstrap.svg
+++creative-tim.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\small-logos\creative-tim.svg
+++devto.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\small-logos\devto.svg
+++github.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\small-logos\github.svg
+++google-webdev.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\small-logos\google-webdev.svg
+++icon-bulb.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\small-logos\icon-bulb.svg
+++icon-sun-cloud.png
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\small-logos\icon-sun-cloud.png
+++logo-asana.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\small-logos\logo-asana.svg
+++logo-atlassian.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\small-logos\logo-atlassian.svg
+++logo-invision.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\small-logos\logo-invision.svg
+++logo-jira.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\small-logos\logo-jira.svg
+++logo-slack.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\small-logos\logo-slack.svg
+++logo-spotify.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\small-logos\logo-spotify.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\logos\gray-logos\logo-spotify.svg
+++logo-xd.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\small-logos\logo-xd.svg
+++bootstrap.bundle.min.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\js\core\bootstrap.bundle.min.js
+++popper.min.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\js\core\popper.min.js
+++bootstrap-notify.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\js\plugins\bootstrap-notify.js
+++Chart.extension.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\js\plugins\chart.extension.js
+++chartjs.min.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\js\plugins\chartjs.min.js
+++perfect-scrollbar.min.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\js\plugins\perfect-scrollbar.min.js
+++smooth-scrollbar.min.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\js\plugins\smooth-scrollbar.min.js
+++world.js
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\js\plugins\world.js
+++banner1.jpg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\banner\banner1.jpg
+++banner2.jpg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\banner\banner2.jpg
+++banner3.jpg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\banner\banner3.jpg
+++banner4.jpg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\images\banner\banner4.jpg
+++logo-coinbase.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\logos\gray-logos\logo-coinbase.svg
+++logo-nasa.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\logos\gray-logos\logo-nasa.svg
+++logo-netflix.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\logos\gray-logos\logo-netflix.svg
+++logo-pinterest.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\logos\gray-logos\logo-pinterest.svg
+++logo-vodafone.svg
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\admin\images\logos\gray-logos\logo-vodafone.svg
+++Global.asax
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\global.asax
+++Global.asax.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\global.asax.cs
+++Profile.aspx
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\profile.aspx
+++Profile.aspx.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\profile.aspx.cs
+++Profile.aspx.designer.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\user\profile.aspx.designer.cs
+++App_Code
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\app_code\
+++ShoppingCart.cs
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\app_code\shoppingcart.cs
+++searchbar.css
+i:{ea60bef2-6306-4a4a-b845-56b02c0df860}:g:\onedrive - tra vinh university\hoc ki vi\chuyên đề asp.net\webpc\webpc\public\user\css\searchbar.css
+++Search.aspx
+++Search.aspx.cs
+++Search.aspx.designer.cs

@@ -1,0 +1,248 @@
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\WebPC.dll.config
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\WebPC.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\WebPC.pdb
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\csc.exe
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\csc.exe.config
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\csc.rsp
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\csi.exe
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\csi.exe.config
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\csi.rsp
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\Microsoft.Managed.Core.targets
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.AppContext.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Collections.Immutable.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Console.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Globalization.Calendars.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.IO.Compression.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.IO.FileSystem.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Net.Http.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Net.Sockets.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Reflection.Metadata.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.ValueTuple.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Xml.XmlDocument.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Xml.XPath.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\vbc.exe
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\vbc.exe.config
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\vbc.rsp
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\VBCSCompiler.exe
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\roslyn\VBCSCompiler.exe.config
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\obj\Debug\WebPC.csproj.AssemblyReference.cache
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\obj\Debug\WebPC.csproj.CoreCompileInputs.cache
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\obj\Debug\WebPC.csproj.CopyComplete
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\obj\Debug\WebPC.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\obj\Debug\WebPC.pdb
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\EntityFramework.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\EntityFramework.SqlServer.dll
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\EntityFramework.xml
+G:\OneDrive - Tra Vinh University\HOC KI VI\chuyên đề ASP.NET\WebPC\WebPC\bin\EntityFramework.SqlServer.xml
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\WebPC.dll.config
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\WebPC.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\WebPC.pdb
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\csc.exe
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\csc.exe.config
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\csc.rsp
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\csi.exe
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\csi.exe.config
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\csi.rsp
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.AppContext.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Console.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.IO.Compression.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Net.Http.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.ValueTuple.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\vbc.exe
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\vbc.exe.config
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\vbc.rsp
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\VBCSCompiler.exe
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\EntityFramework.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\EntityFramework.SqlServer.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\EntityFramework.xml
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\EntityFramework.SqlServer.xml
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\obj\Debug\WebPC.csproj.AssemblyReference.cache
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\obj\Debug\WebPC.csproj.CoreCompileInputs.cache
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\obj\Debug\WebPC.csproj.CopyComplete
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\obj\Debug\WebPC.dll
+C:\Users\NHUT TRUONG\Desktop\New folder\WebPC\WebPC\WebPC\obj\Debug\WebPC.pdb
+G:\WebPC\WebPC\bin\WebPC.dll.config
+G:\WebPC\WebPC\bin\WebPC.dll
+G:\WebPC\WebPC\bin\WebPC.pdb
+G:\WebPC\WebPC\bin\roslyn\csc.exe
+G:\WebPC\WebPC\bin\roslyn\csc.exe.config
+G:\WebPC\WebPC\bin\roslyn\csc.rsp
+G:\WebPC\WebPC\bin\roslyn\csi.exe
+G:\WebPC\WebPC\bin\roslyn\csi.exe.config
+G:\WebPC\WebPC\bin\roslyn\csi.rsp
+G:\WebPC\WebPC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\WebPC\WebPC\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\WebPC\WebPC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\WebPC\WebPC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\WebPC\WebPC\bin\roslyn\Microsoft.Managed.Core.targets
+G:\WebPC\WebPC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\WebPC\WebPC\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\WebPC\WebPC\bin\roslyn\System.AppContext.dll
+G:\WebPC\WebPC\bin\roslyn\System.Collections.Immutable.dll
+G:\WebPC\WebPC\bin\roslyn\System.Console.dll
+G:\WebPC\WebPC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\WebPC\WebPC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\WebPC\WebPC\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\WebPC\WebPC\bin\roslyn\System.Globalization.Calendars.dll
+G:\WebPC\WebPC\bin\roslyn\System.IO.Compression.dll
+G:\WebPC\WebPC\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\WebPC\WebPC\bin\roslyn\System.IO.FileSystem.dll
+G:\WebPC\WebPC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\WebPC\WebPC\bin\roslyn\System.Net.Http.dll
+G:\WebPC\WebPC\bin\roslyn\System.Net.Sockets.dll
+G:\WebPC\WebPC\bin\roslyn\System.Reflection.Metadata.dll
+G:\WebPC\WebPC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\WebPC\WebPC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\WebPC\WebPC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\WebPC\WebPC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\WebPC\WebPC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\WebPC\WebPC\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\WebPC\WebPC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\WebPC\WebPC\bin\roslyn\System.ValueTuple.dll
+G:\WebPC\WebPC\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\WebPC\WebPC\bin\roslyn\System.Xml.XmlDocument.dll
+G:\WebPC\WebPC\bin\roslyn\System.Xml.XPath.dll
+G:\WebPC\WebPC\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\WebPC\WebPC\bin\roslyn\vbc.exe
+G:\WebPC\WebPC\bin\roslyn\vbc.exe.config
+G:\WebPC\WebPC\bin\roslyn\vbc.rsp
+G:\WebPC\WebPC\bin\roslyn\VBCSCompiler.exe
+G:\WebPC\WebPC\bin\roslyn\VBCSCompiler.exe.config
+G:\WebPC\WebPC\bin\EntityFramework.dll
+G:\WebPC\WebPC\bin\EntityFramework.SqlServer.dll
+G:\WebPC\WebPC\bin\EntityFramework.xml
+G:\WebPC\WebPC\bin\EntityFramework.SqlServer.xml
+G:\WebPC\WebPC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\WebPC\WebPC\obj\Debug\WebPC.csproj.AssemblyReference.cache
+G:\WebPC\WebPC\obj\Debug\WebPC.csproj.CoreCompileInputs.cache
+G:\WebPC\WebPC\obj\Debug\WebPC.csproj.CopyComplete
+G:\WebPC\WebPC\obj\Debug\WebPC.dll
+G:\WebPC\WebPC\obj\Debug\WebPC.pdb
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\WebPC.dll.config
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\WebPC.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\WebPC.pdb
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\csc.exe
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\csc.exe.config
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\csc.rsp
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\csi.exe
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\csi.exe.config
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\csi.rsp
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Console.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Net.Http.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\vbc.exe
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\vbc.exe.config
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\vbc.rsp
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\EntityFramework.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\EntityFramework.xml
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\obj\Debug\WebPC.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\obj\Debug\WebPC.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\obj\Debug\WebPC.csproj.CopyComplete
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\obj\Debug\WebPC.dll
+C:\Users\PC\Downloads\WebPC\WebPC\WebPC\obj\Debug\WebPC.pdb
